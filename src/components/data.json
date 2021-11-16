@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Peter",
+    "email": "peter@gmail.com",
+    "price": 800,
+    "img": "/1.gif"
+  },
+  {
+    "id": 1,
+    "name": "Peter1",
+    "email": "peter1@gmail.com",
+    "price": 600,
+    "img": "/1.gif"
+  },
+  {
+    "id": 2,
+    "name": "Peter2",
+    "email": "peter2@gmail.com",
+    "price": 700,
+    "img": "/1.gif"
+  },
+  {
+    "id": 3,
+    "name": "Peter3",
+    "email": "peter3@gmail.com",
+    "price": 400,
+    "img": "/1.gif"
+  },
+  {
+    "id": 4,
+    "name": "Peter4",
+    "email": "peter4@gmail.com",
+    "price": 600,
+    "img": "/1.gif"
+  }
+]
